@@ -18,6 +18,19 @@ body{
 
 
 }
+.button-to-react{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    height: 100px;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgb(149, 20, 255);
+    border: 1px solid white;
+    
+}
+.button-to-react:hover{background-color: blue;}
 
 .character{
     height: 100vh;
